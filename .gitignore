@@ -1,0 +1,9 @@
+# Fichiers compilés Java
+*.class
+target/
+
+# Fichiers IDE
+.settings/
+
+#exemple pour nous
+prof.txt
