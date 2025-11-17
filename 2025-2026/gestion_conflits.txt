@@ -1,0 +1,7 @@
+This is a basic text file for git conflict management purposes.
+
+Chosen student will apply changes here :
+"La marque de mon ordinateur est un MACBOOK AIR M2"
+
+Teacher will apply changes here :
+"Mon endroit préféré pour manger à BFM est le GFC"
