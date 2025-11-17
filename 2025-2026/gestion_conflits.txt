@@ -4,4 +4,4 @@ Chosen student will apply changes here :
 "La marque de mon ordinateur est un MACBOOK AIR M2"
 
 Teacher will apply changes here :
-"Mon endroit préféré pour manger ici est le Tasty Crousty"
+"Mon endroit préféré pour manger ici est le GFC"
